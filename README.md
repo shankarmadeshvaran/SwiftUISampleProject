@@ -2,7 +2,7 @@
 I have created this project using SwiftUI frameWork.It contains topics such as List,VStack,State property and cusomized Views.
 
 <p align="center">
-  <img src="https://github.com/shankarmadeshvaran/SwiftUISampleProject/blob/master/ListSwiftUI.gif" width="50%" height="50"/>
+  <img src="https://github.com/shankarmadeshvaran/SwiftUISampleProject/blob/master/ListSwiftUI.gif" width="50%" height="50%"/>
 </p>
 
 ## Concepts
