@@ -12,4 +12,4 @@ I have used SwitUI views and concepts such as List,VStack,Toggle,NavigationLink 
 I have put an [detailed article](https://medium.com/a-developer-in-making/how-to-work-with-swiftui-framework-in-swift-89deda4bfe3?source=friends_link&sk=8c29068337f587cdd5fcb5f1024d9500) about this implementation in Medium.
 
 ## More Updates
-Follow me on [Twitter](https://twitter.com/Shankar__am) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
+Follow me on [Twitter](https://twitter.com/devinmaking) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
